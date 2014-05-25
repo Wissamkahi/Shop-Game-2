@@ -777,5 +777,6 @@ public class ShopGame extends GraphicsProgram {
 	
 	/** -Math.log(1.0 - rand.nextDouble()) / lambda. 
 	 mulate%20inter-arrival%20times%20in%20m%2Fm%2F1&f=false */
+	/* 2nd change */
 	
 }
